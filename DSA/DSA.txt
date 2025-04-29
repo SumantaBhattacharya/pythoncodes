@@ -1,0 +1,343 @@
+Data structures is a way to store and organise the data so it can be access Effectively
+build in data structure 
+user defined data structures
+Build a data structure list tuple set dictionary.
+User defined data structures stack Q Linklist tree graph
+Stack is a linear data structure and a ordered collection of items where the addition of new items and removal of items always take Plays at the same end it follow lifo last in first out or fellow first in last out. The removal of items will be start from the top
+Operations of Stack are 
+Push adds elements to the stack 
+Pop removes elements from the stack
+Peak or top gives you the element present in the top or front element
+is empty to cheque the stack is empty or not 
+Is full to cheque the stack is full or not
+Just take an example. Let's say there is a multiple words in a single sentence. You remove some of the words, and the words stored in the stack one by 1Then you press central Z to bring back those words which you were deleted That words will be removed from the stack one by one from the top
+In python stack is not a build in data structure
+We can implement stack using modules or list the modules can be collection or queue
+Disadvantages of Stack
+the insertion and deletion of elements can be performed at only one end
+Elements gate inserted first has to wait for the longest time to get pop off
+Any object can be added only at the top
+Only one element at the top position can be related at a time
+If we want to delete only the last element of the stack, then we have to unnecessarily delete the top of the elements to reach to the last element
+The removal of items can only be start from the top
+Linked list
+link list is a linear data structure which consists of group of nodes in a sequencewhere each node contains a data element and a reference of the next node There are two types of linked list, singular linked list, double linked list And the third one is circular link list, which can be defined again Single circular linked list and double circular linked list
+link list advantages
+Link list are dynamic in nature Linkedlist are not Constained of a fixed size
+Efficient memory utilisation Linkedlists are not constrained a fixed size. It is dynamic in nature. It can fit to its size accordingly allowing it to use memory more efficiently
+Efficient insertion and deletion in linked list insertion deletion operations can be easily implemented
+in dynamic operation. Langless reduces the access time for insertion and deletion and for the other operations
+Ease in implementation implementing basic operations like insertion, deletion, peak or top, and is empty, etc.Is simpler in linked list
+disadvantages of linked list
+Extra memory usage each node in link list requires extra pointer or reference to the next node. Lead to memory wastage or higher usage of memory
+Random access limitation, link list does not provide constant time random access to elements Accessing a specific element required traversing a list from the beginning
+Complexity, managing pointers and direct memory allocation adds complexity to the link list, which make linked list more complex to debug an error proneThen the other data structures like array
+cache issues linked list may not utilise the cache efficiently, as the nodes are scattered in different memory locations, slowers the access time
+Applications of linked list
+Dynamic memory allocation
+implementation of data structure serves as a fundamental structure for implementing graphs, queues and stack
+Double linked list
+Double linked list is a type of linked list which is a chain of nodes in which each node contains data part as well as to pointer or references pointing both previous node and the next node At the same time, In the first node of the double linked list the previous reference is assigned to none And in the last node of the double Link list, the next reference is assigned to None as well.
+Advantages of double link list
+Bidirectional traversal: double link list allows traversal in both the directions forward as well as backward, providing more flexibility in various operations
+Efficient insertions and deletions: Adding or removing notes at both ends of the double linked list is more efficient
+Efficient deletions Deletion of a node in list More efficient as it does not require to travel from the beginning to find the specific node
+Versatility: Suitable for those scenarios where forward and backward traversal and manipulation of elements are frequently required
+Limitations, disadvantages , Demerits of double linked list
+increased memory usage: Double linked list requires extra memory for the backward pointers leading to higher memory usage compared to single linked list
+Complexity: the extra pointers make the implementation and maintenance of the English more complex than single linked list
+Higher storage cost: in double linked list. Each node requires more space to store two pointers, making it higher cost
+Potential for inconsistency:The bidirectional leisure of double leg list make it potentially inconsistent requiring careful management to manage and maintain data
+Circular linked list
+Circular link list is a type of linked list which is a collection of nodes where each node is corrected through link in such a way it forms a circle. In circle linked listthe last node of the list points to the first node of the list Instead of containing null value as the next reference this creates a loop in the list allowing them for continuous traversal
+There are two types of circular link list single, circular link list and double circular link list
+in circular, single linked list. A node contains data part and reference part. Each node point to the next node in the sequencebut the last node contains the address of the first node
+The traversal start from the first Node and the last node is linked with the first node, which forms a traversing loop
+
+  1066            2042             1099
+[69|2046]--><--[68|1099]---><---[77|1066]
+    <---------------------------------
+
+In Circular Double link list is a type of circular linked list, where each node contains the data part , previous reference. And next reference each node point to the next node in the sequence. the first node contains the reference of the last node. At the last node contains the reference of the first node, which forms a circle and facilitates even forward and backward traversing.
+
+    -------------------------------------------->
+  1066                   2042                 1099
+[1099|69|2046]--><--[1066|68|1099]---><---[2042|77|1066]
+  <-------------------------------------------------
+
+  Advantages of circular Linked list
+1. Traversal convenience:Traversing Circular Linked list is more convenient as the last node contains the reference of the first node
+2. Efficient operations:Since Circular link list do not have fixed end , Insertion and deletion can be more efficient
+3. Time effective:It saves time when we have to go to the first node from the last node
+4. Memory utilisation:Circular legalists make better use of baery.As the last note points back to the first node, avoiding unused memory
+Disadvantages of Circular linked list
+1. Potential for infinite loop
+2. complicated implementation
+3. Complexity in traversing 
+4. Difficulty in reversal going back to the previous node cannot be done in a single step
+
+Difference between stack and queue
+stack                                                                          Queue
+Stack follows LIFO operation Last In First Out.                        Q follows FIFO operation first in first out.
+Insertion and deletion take place on the one end,                      Insertion and deletion take place on 2 different ends
+that is same end i.e top of the stack
+Stack performs push or pop operation for inserting                     Queue Performs Enqueue or dequeue Operation for inserting or deleting an element into or from the queue.
+or deleting an element into or from the stack.
+Stack can be implemented using arrays or linked list                   Queues can be implemented using linked list arrays and circular linked list.
+Example: - Collection of books,                                        Example: People are waiting in a line, and the first person who arrived first will be in the first to get his food served.
+the first book is getting picked first.
+
+MCQs
+1.	If a is an array then a[-1] points to its
+a)	First element	b) Last element	c) Element at the 1th index	d) length
+b) Last element
+2.	If a is an array then a.remove(1) will remove
+a)	Element at the 1th index	b) first occurrence of 1	c) all the 1 d) first element from the array
+b) first occurrence of 1
+3.	a = arr.array('i', [1, 2, 3,9, 4, 7,5, 6,810])
+print(a[3:8])
+This Python code will print
+a)	3 and 8	b) elements from 3rd to 7th index	c) element on the 3rd index and 8th index d) all of the above
+b) elements from 3rd to 7th index
+4.	using double hashing we stored three keys 27, 42, and 692 In a hash table if the first hash function is h1(key) = key%7, the second hash function is h2(key) = 1 + (key % 5) and the size of the hash table is 7 then the index number where a new key 72 will store
+a)	2	b) 3	c) 4	d)5
+
+d)5
+5.	Time complexity of insertion sort is
+a)	O(n2)	b) O(logn)	c) O(nlogn)	d)O(n)
+       
+       a)O(n2)
+6.	In which linked list the last node points to the head of the linked list
+a)	Single linked list	b) double linked list	c) circular linked list d) none of the above
+c) circular linked list
+7.	Recursion is a process of
+a)	A function calling itself	b) a function calling another function	c) a function getting called multiple times		d) a predefined function which does not get called
+a) A function calling itself
+8.	Which data structure is used for implementing recursion?
+a)	Stack	b) Queue	c) List	d) Array
+b)	Stack
+
+9.	What is the value of the postfix expression 6 5 2 4 + – *?
+a)	74	b) -18	c) -6	d) 40
+c) -6
+10.	Which data structure is used in cryptography
+a)	Hash	b) tree	c) linked list	d) array
+a) Hash
+11.	Suppose a circular queue of capacity (n – 1) elements is implemented with an array of n elements. Assume that the insertion and deletion operation are carried out using REAR and FRONT as array index variables, respectively. Initially, REAR = FRONT = 0.
+The conditions to detect queue full and queue empty are
+
+a)	Full: (REAR+1) mod n == FRONT, empty: REAR == FRONT
+b)	Full: (REAR+1) mod n == FRONT, empty: (FRONT+1) mod n == REAR
+c)	Full: REAR == FRONT, empty: (REAR+1) mod n == FRONT
+d)	Full: (FRONT+1) mod n == REAR, empty: REAR == FRONT
+
+a)	Full: (REAR+1) mod n == FRONT, empty: REAR == FRONT
+
+5 Marks Question
+1.	Write down a python code and the output to add these given polynomials using array: 5+10x2+ 6x3 and 1+ 2x +3x2
+2.	def add_polynomials(poly1, poly2):
+3.	    result = []
+4.	
+5.	    # Pad the smaller polynomial with zeros to make them of equal length
+6.	    if len(poly1) < len(poly2):
+7.	        poly1 += [0] * (len(poly2) - len(poly1))
+8.	    else:
+9.	        poly2 += [0] * (len(poly1) - len(poly2))
+10.	
+11.	    # Add corresponding coefficients
+12.	    for coeff1, coeff2 in zip(poly1, poly2):
+13.	        result.append(coeff1 + coeff2)
+14.	
+15.	    return result
+16.	
+17.	# Example polynomials
+18.	poly1 = [0, 5, 0, 10, 6]  # Represents 5^1 + 10x^2 + 6x^3
+19.	poly2 = [1, 2, 3]         # Represents 1 + 2x^1 + 3x^2
+20.	
+21.	# Adding polynomials
+22.	result = add_polynomials(poly1, poly2)
+23.	
+24.	# Output
+25.	print("Result of (5^1 + 10x^2 + 6x^3) + (1 + 2x^1 + 3x^2):", result)
+26.	
+
+or
+What is collision in hashing, write down the algorithm of linear probing.
+The hashing process generates a small number for a big key, so there is a possibility that two keys could produce the same value. The situation where the newly inserted key maps to an already occupied, and it must be handled using some collision handling technology.
+
+Linear Probing 
+In linear probing, the hash table is searched sequentially that starts from the original location of the hash. If in case the location that we get is already occupied, then we check for the next location.
+Algorithm: 
+1.Calculate the hash key. i.e. key = data % size 
+2.Check, if hash Table[key] is empty  
+•store the value directly by hash Table[key] = data 
+3.If the hash index already has some value, then  
+1. check for next index using key = (key+1) % size 
+4.Check, if the next index is available hashTable[key] then store the value.  Otherwise try for next index.  
+5.Do the above process till we find the space.
+
+Write down the algorithm for searching elements in AVL tree
+1.	Start at the root of the AVL tree.
+2.	If the key to be searched is less than the key at the current node, move to the left subtree.
+3.	If the key to be searched is greater than the key at the current node, move to the right subtree.
+4.	If the key matches the key at the current node, the key is found, and the algorithm returns the node containing the key.
+5.	If the key is not found after reaching a null node, return null to indicate that the key is not present in the tree.
+
+The in-order and pre-order traversal of a binary tree is given below : In-order : D,G,B,H,E,A,G,I,C
+Pre-order: A, B, D, G, E, H, C, F, I
+Find out the post-order traversal of the binary tree.
+h, g, i, e, d, b, f, c, a
+
+15 Marks Question
+1.	a) What is shell sort? Write down shell sort algorithm to sort this given array [35, 33, 42, 10, 14, 19, 27, 44] (10)
+Shell sort is highly efficient sorting algorithm based on insertion sort algorithm.
+1.Initialize h has an interval with N/2 where N Easy total number of elements in an Array and divided with two in every iteration until it becomes 1.
+2. Divide the array into sub lists. Of equal intervals.
+3. Apply insertions for algorithm to sort the sub lists.
+4. Repeat 2nd and 3rd step until the array becomes sorted.
+  0    1    2     3   4     5   6    7
+[35, 33, 42, 10, 14, 19, 27, 44] 8/2 = 4
+  0    1    2     3   4     5   6    7
+[14, 33, 42, 10, 35, 19, 27, 44] 4/2 = 2
+  0    1    2     3   4     5   6    7
+[14, 33, 27, 10, 35, 19, 42, 44] 2/2 = 0
+Check 33 is less than 14 no don’t swap
+[14, 33, 27, 10, 35, 19, 42, 44]
+Check 27 is less than 33 yes swap
+[14, 27, 33, 10, 35, 19, 42, 44]
+Check 10 is less than 33 yes swap yes swap then again check 10 is less than 27 yes swap then again check 10 is less than 14 yes swap
+[10,14, 27, 33, 35, 19, 42, 44]
+Check 35 is less than 33 No don’t swap 
+[10,14, 27, 33, 35, 19, 42, 44]
+Check 19 is less than 33 yes then again check 19 is less than 33 yes then again check 19 is less than 27 yes swap
+[10,14, 19,27, 33, 35,  42, 44]
+Check 42 is less than 35 No keep it remain
+[10,14, 19,27, 33, 35, 42, 44]
+Check if 44 is less than 35 No keep it same
+[10,14, 19,27, 33, 35, 42, 44]
+
+b)	write down the insertion sort algorithm and its time complexity. (5)
+1.	Assume that the first element is sorted.
+2.	Take the next element and store it as a key.
+3.	Now compare the key with all the elements in the sorted array.
+4.	If the element in the sorted array is smaller than the key, then move to the next element. And if the element in the sorted array is greater than the key, then shift the greater elements to the right.
+5.	Insert the value
+6.	Repeat until the array is sorted.
+
+b)	Write an algorithm to convert an in-fix expression to a post-fix expression (5)
+To convert an infix expression to a postfix expression, we can use the following algorithm:
+1.	Create an empty stack and an empty output string.
+2.	For each character in the infix expression, do the following:
+o	If the character is an operand, add it to the output string.
+o	If the character is an operator, pop operators from the stack and add them to the output string until an operator with lower precedence is at the top of the stack. Then push the current operator onto the stack.
+o	If the character is a left parenthesis, push it onto the stack.
+o	If the character is a right parenthesis, pop operators from the stack and add them to the output string until a left parenthesis is at the top of the stack. Then pop the left parenthesis from the stack.
+3.	After processing all characters in the infix expression, pop any remaining operators from the stack and add them to the output string.
+4.	The resulting output string is the postfix expression.
+
+a. Explain the working principle of Hash Map (5)
+A Hash Map, also known as a Hash Table, is a data structure that maps keys to values using hash function and that allows for efficient insertion, deletion, and retrieval of key-value pairs.
+Hash function The hash function creates a mapping between key and value, this is done through using hash functions. The hash function 
+receives the input key and returns the index of an element in an array called hash table.
+Collision: The hashing process generates a small number for a big key, so there is a possibility that two keys could produce the same value. The situation where the newly inserted key maps to an already occupied, and it must be handled using some collision handling technology.
+There are different techniques to handle collisions, and two common approaches are separate chaining and open addressing.
+1)	Separate Chaining: The idea is to make each cell of the hash table point to a linked list of records that have the same hash function value.
+2)	Quadratic Probing: Quadratic probing operates by taking the original hash index and adding successive values of an arbitrary quadratic polynomial until an open slot is found.
+
+b) what is algorithm? Write down the characteristics of an algorithm (5)
+An algorithm is a well-defined sequence of instructions that are designed to solve a specific problem.
+Input and output: Algorithms take inputs, which are the initial data provided to the algorithm, and produce outputs, which are the result generated by the algorithm after processing all the inputs. 
+Definiteness: Each step of the algorithm must be precisely defined.
+Finiteness: The algorithm must terminate after a finite number of steps. It should not go into an infinite loop.
+Correctness: An algorithm should produce the correct output for all valid inputs.
+Modularity: Algorithms can be designed with modularity. This promotes code readability and maintainability.
+Generality: An algorithm must be designed to solve a specific problem.
+a)	Define Heap. Convert a binary tree into a minimum heap (5)
+A heap is a tree-based data structure that satisfies the heap property and It is used to store and manage a collection of elements. 
+
+b)	how does merge sort work? When does best case, worst case and average case occurs in merge sort (5)
+Merge sort is defined as a sorting algorithm works by dividing array into subarrays and sorting each of the sub array and then merge it together to form a complete sorted array. 
+Steps of merge sort algorithm:
+1)	If there is only one element in an array then the array is already sorted.
+2)	Otherwise, divide the array recursively into two halves until it cannot be divided.
+3)	Merge the subarrays together in a sorted form.
+0      1     2     3     4    5    6
+[69][68][77][104][99][420][9]
+           |                               |
+  [69][68][77]          [104][99][420][9]
+   |             |                  |               |
+[69]      [68][77]     [104|99]       [420][9]
+   |             |                |                  |
+ [69]    [69][77]      [99|104]       [9][420]
+              [68|69|77]      [9|99|104|420]
+     [9][68][79][77][99][104][420]  
+
+
+
+
+
+
+
+Advantages of merge sort: 
+a)	Stability: Merge sort is a stable sorting algorithm.
+b)	Parallelizable: Merge sort is a Parallelizable algorithm.
+c)	 Time-Complexity: Merge sort has time complexity of O(N log N) which is well suited for both small and large datasets.
+Disadvantages of Merge sort: - 
+a) Space Complexity: Merge sort requires additional space to store the merged sub arrays during the sorting process.
+b) Not in place: Merge sort is a Not-in-place sorting algorithm which requires additional space to store the sorted data values/elements.
+c) Not optimal for small datasets: Merge sort has a higher time complexity so it is not optimal for smaller datasets.  
+
+a)	What do you mean by Binary search tree? Construct a binary search tree using the given data 20 26 200 343 322 444 221 664 343 322 (5)
+The binary search tree is a binary tree data structure in which each node has at most two children node.
+
+
+Operations of binary search tree:
+1)Search: Search operation is used to find whether a given node is present in the binary search tree or not. The searching process begins from the root node. first it will check whether binary search tree is empty or not, if the binary search tree is empty then the given values is not present in the binary search tree and if it is not empty then it will compare the value of the root node with the given node. If it is equal that means the given value is present in the binary search tree and if it is not equal then check the given value is less than the root node if yes then you need to search left subtree and if the given value is greater than the root node then you need to search in right subtree.
+2) Insertion: Insertion operation is used to add a new node with the given value at the correct position in the binary search tree.
+To insert the new node with the given value first we need to check whether binary search tree is empty. If binary search tree is empty then add a new node in the binary search tree it will become the root node of the binary search tree. If binary search tree is not empty then we need to compare the value of the new node and the value of the root node, If it is equal then that means we are adding a duplicate value, if it is not equal and if the new node is greater than the root node then we need to go to the right side and add the node in the binary search tree and if the new node is less than the root node then we need to go to the left subtree and add the new node in the binary search tree.
+Algorithm:
+1.	Check BST is empty: If yes: insert the new node: if no: compare the new node with the given value with the root node’s value.
+2.	Root node’s value < given: if yes: then go to the right subtree and insert the new node: if no: then go to the right subtree and insert the new node.
+3.	END
+            3)Deletion: - Delete operation deletes a node with the given value from the binary search tree.
+It will delete a given node if it is present in the binary search tree. If it is not present in the binary search tree it will print a message that the given node does not get found in the binary search tree.
+To delete a node from a binary search tree first we need to check whether binary search tree is empty or not, if binary search tree is empty, we can’t delete any node from binary search tree. If binary search tree is not empty then we need to compare the given value with the node’s value in binary search tree. If the given value is equal to the node’s value, then delete the node from the binary search tree.
+
+
+
+
+4.	Traversal: Traversing the binary search tree is a process of visiting each node in the tree exactly once in a systematic way.
+Pre order traversal in binary tree:
+1.	Visit the root node
+2.	Traverse the left subtree
+3.	Traverse the right subtree
+                        In order traversal in binary search tree:
+1.	Traverse the left subtree
+2.	Visit the root node
+3.	Traverse the right subtree
+                        Post order traversal in binary search tree:
+To traverse a non-empty binary search tree in post order, the following operations performed recursively at each node
+1.	Traverse the left subtree
+2.	Traverse the right subtree
+3.	Visit the root node
+
+Difference between array and linked list
+Array                                                   Linked list
+Array is a collection of similer data type element      Linked list is a collection of nodes which forms a sequence
+Array is a fixed size linear data structure             Linkedlist is a dynamic size linear data structure
+Array are easier to impliment                           Linkedlist is a hard to impliment due to dynamic memory allocation
+Arrays are more memory efficient                        Linkedlist are less memory efficient as they require extra memory to store the reference 
+Arrays Elements are independent to each other           Linkedlist'S Elements are dependent upon each other 
+Arrays provides O(1) time Complexity for random access  Linkedlists provides O(n) time Complexity for random access
+Arrays takes more time for performing the operations    Linkedlists takes less time to perform the operations
+
+Difference between tree and graph 
+Tree                                            Graph
+Tree is a hirarchical structure                 Graph is a Non-hirarchical structure
+Tree is a collection of nodes and edges         Graph is a collection of vertices and edges
+Tree are directed                               Graphs can be directed or undirected. directed graph edges have direction and undirected graph edges have no direction
+No cycles are allowed, trees are acyclic        Cycles are allowed in graphs 
+Trees have designated root node                 Graph have no specific root node
+Trees are always connected                      Graph can be connected or disconnected 
+
+Algorithm for incertion at the beginning of the linked list
