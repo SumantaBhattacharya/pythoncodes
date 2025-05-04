@@ -35,3 +35,13 @@ DIP/05.1program-to-perform-log-transformation-on-a-grayscale-image.png
 DIP/05.1program-to-perform-log-transformation-on-a-grayscale-image.py
 DIP/05program-to-perform-log-and-power-law-transformations-on-a-grayscale-image.py
 Original-images-first-column-observed-images-corrupted-by-blur-and-Poisson-noise.ppm
+DIP/11program-to-perform-histogram-matching-of-a-grayscale-image-using-a-reference-image.py
+.gitignore
+DIP/05.2program-to-perform-power-law-transformation-on-a-grayscale-image.py
+DIP/09program-to-display-the-histogram-of-a-grayscale-image.png
+DIP/09program-to-display-the-histogram-of-a-grayscale-image.py
+DIP/06program-to-perform-intensity-level-slicing-on-a-grayscale-image.py
+DIP/07program-to-perform-bit-plane-slicing-on-a-grayscale-image.py
+DIP/07Figure.png
+DIP/08program-to-perform-contrast-stretching-on-a-grayscale-image.py
+DIP/10program-to-perform-histogram-equalization-on-a-grayscale-image.py
