@@ -23,3 +23,15 @@ game/characters/__pycache__/boss.cpython-312.pyc
 game/characters/__pycache__/boss.cpython-311.pyc
 game/characters/__pycache__/player.cpython-312.pyc
 game/characters/__pycache__/player.cpython-311.pyc
+DIP/01read-an-image-file.png
+DIP/01read-an-image-file.py
+DIP/02convert-a-grayscale-image-into-a-binary-image.png
+DIP/02convert-a-grayscale-image-into-a-binary-image.py
+DIP/03program-to-extract-the-red-green-and-blue-color-planes-of-an-image.png
+DIP/03program-to-extract-the-red-green-and-blue-color-planes-of-an-image.py
+DIP/04program-to-convert-a-grayscale-image-into-its-negative.png
+DIP/04program-to-convert-a-grayscale-image-into-its-negative.py
+DIP/05.1program-to-perform-log-transformation-on-a-grayscale-image.png
+DIP/05.1program-to-perform-log-transformation-on-a-grayscale-image.py
+DIP/05program-to-perform-log-and-power-law-transformations-on-a-grayscale-image.py
+Original-images-first-column-observed-images-corrupted-by-blur-and-Poisson-noise.ppm
