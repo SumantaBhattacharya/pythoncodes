@@ -45,3 +45,12 @@ DIP/07program-to-perform-bit-plane-slicing-on-a-grayscale-image.py
 DIP/07Figure.png
 DIP/08program-to-perform-contrast-stretching-on-a-grayscale-image.py
 DIP/10program-to-perform-histogram-equalization-on-a-grayscale-image.py
+DIP/11program-to-perform-histogram-matching-of-a-grayscale-image-using-a-reference-image.png
+DIP/13program-to-apply-a-Laplacian-kernel-for-filtering-a-grayscale-image.py
+DIP/12program-to-apply-a-mean-filter-to-a-grayscale-image.png
+DIP/13program-to-apply-a-Laplacian-kernel-for-filtering-a-grayscale-image.png
+DIP/12program-to-apply-a-mean-filter-to-a-grayscale-image.py
+DIP/15program-to-detect-the-edges-of-a-grayscale-image-using-the-Sobel-operator.py
+DIP/14program-to-apply-the-Roberts-Cross-gradient-operator-to-detect-the-edges-of-a-grayscale-image.py
+DIP/14program-to-apply-the-Roberts-Cross-gradient-operator-to-detect-the-edges-of-a-grayscale-image.png
+DIP/reference-image.png
