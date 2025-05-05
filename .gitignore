@@ -35,8 +35,7 @@ DIP/05.1program-to-perform-log-transformation-on-a-grayscale-image.png
 DIP/05.1program-to-perform-log-transformation-on-a-grayscale-image.py
 DIP/05program-to-perform-log-and-power-law-transformations-on-a-grayscale-image.py
 Original-images-first-column-observed-images-corrupted-by-blur-and-Poisson-noise.ppm
-DIP/11program-to-perform-histogram-matching-of-a-grayscale-image-using-a-reference-image.py
-.gitignore
+DIP/11program-to-perform-histogram-matching-of-a-grayscale-image-using-a-reference-image.p
 DIP/05.2program-to-perform-power-law-transformation-on-a-grayscale-image.py
 DIP/09program-to-display-the-histogram-of-a-grayscale-image.png
 DIP/09program-to-display-the-histogram-of-a-grayscale-image.py
@@ -54,3 +53,8 @@ DIP/15program-to-detect-the-edges-of-a-grayscale-image-using-the-Sobel-operator.
 DIP/14program-to-apply-the-Roberts-Cross-gradient-operator-to-detect-the-edges-of-a-grayscale-image.py
 DIP/14program-to-apply-the-Roberts-Cross-gradient-operator-to-detect-the-edges-of-a-grayscale-image.png
 DIP/reference-image.png
+DIP/16program-to-detect-the-edges-of-a-grayscale-image-using-the-Canny-operator.png
+DIP/17program-to-detect-the-edges-of-a-grayscale-image-using-the-Prewitt-operator.py
+DIP/17program-to-detect-the-edges-of-a-grayscale-image-using-the-Prewitt-operator.png
+DIP/16program-to-detect-the-edges-of-a-grayscale-image-using-the-Canny-operator.py
+DIP/11program-to-perform-histogram-matching-of-a-grayscale-image-using-a-reference-image.py
