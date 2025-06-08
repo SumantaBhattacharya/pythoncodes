@@ -36,13 +36,19 @@
 
 [![Log Transformation in Image Processing | Image Processing Unit 2 | Image Processing | DIP](https://img.youtube.com/vi/eifdE-x85U4/0.jpg)](https://youtu.be/eifdE-x85U4?si=uf-73bK-afJE0WWr)
 
+# ***The fundamental steps in digital image processing such as Image acquisition, Image enhancement, Image restoration, Morphological processing, Segmentation, Object recognition, Representation and Description, Image compression, and Color image processing.***
+
 [![The fundamental steps in digital image processing](https://img.youtube.com/vi/8ekTeZD_lNY/0.jpg)](https://youtu.be/8ekTeZD_lNY?si=pV0cXddCtFNgtk67)
+
+# ***Image Segmentation in digital image processing with methods of finding discontinuity and similarity. Point and line detection and about edge detection.***
 
 [![Image Segmentation in digital image processing](https://img.youtube.com/vi/UkcNV7B9Hsw/0.jpg)](https://youtu.be/UkcNV7B9Hsw?si=mlIVObAB5LNtUCKh)
 
 # ***Thresholding in digital image processing — Types of thresholding, the procedure of global thresholding with an example, and the procedure of adaptive thresholding.***
 
 [![Thresholding in digital image processing](https://img.youtube.com/vi/DcWrbsPJEd8/0.jpg)](https://youtu.be/DcWrbsPJEd8?si=z3-p6Vg66rObPJrn)
+
+[![DIP#14 Histogram equalization in digital image processing with example || EC Academy](https://img.youtube.com/vi/uqeOrtAzSyU/0.jpg)](https://youtu.be/uqeOrtAzSyU?si=kM87vtoIkr1S5oO2)
 
 # ***Certification***
 
