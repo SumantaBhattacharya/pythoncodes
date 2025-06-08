@@ -40,6 +40,10 @@
 
 [![Image Segmentation in digital image processing](https://img.youtube.com/vi/UkcNV7B9Hsw/0.jpg)](https://youtu.be/UkcNV7B9Hsw?si=mlIVObAB5LNtUCKh)
 
+# ***Thresholding in digital image processing — Types of thresholding, the procedure of global thresholding with an example, and the procedure of adaptive thresholding.***
+
+[![Thresholding in digital image processing](https://img.youtube.com/vi/DcWrbsPJEd8/0.jpg)](https://youtu.be/DcWrbsPJEd8?si=z3-p6Vg66rObPJrn)
+
 # ***Certification***
 
 ![WhatsApp Image](https://github.com/SumantaBhattacharya/pythoncodes/raw/main/WhatsApp%20Image%202025-06-01%20at%2001.24.53_f9a2df28.jpg)
