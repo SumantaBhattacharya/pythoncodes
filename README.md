@@ -54,6 +54,10 @@
 
 [![Histogram matching in digital image processing](https://img.youtube.com/vi/r565euxWZBs/0.jpg)](https://youtu.be/r565euxWZBs?si=0i_0gjvowSMnEXqv)
 
+# ***Region Growing Algorithm in Image Segmentation.***
+
+[![Region Growing Algorithm in Image Segmentation.](https://img.youtube.com/vi/ZAXjI9CFvDU/0.jpg)](https://youtu.be/ZAXjI9CFvDU?si=KzHc_7QC_p39qCfj)
+
 # ***Certification***
 
 ![WhatsApp Image](https://github.com/SumantaBhattacharya/pythoncodes/raw/main/WhatsApp%20Image%202025-06-01%20at%2001.24.53_f9a2df28.jpg)
