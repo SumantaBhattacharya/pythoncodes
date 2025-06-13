@@ -50,6 +50,10 @@
 
 [![DIP#14 Histogram equalization in digital image processing with example || EC Academy](https://img.youtube.com/vi/uqeOrtAzSyU/0.jpg)](https://youtu.be/uqeOrtAzSyU?si=kM87vtoIkr1S5oO2)
 
+# ***Histogram matching in digital image processing which includes equalization and mapping of histograms.***
+
+[![Histogram matching in digital image processing](https://img.youtube.com/vi/r565euxWZBs/0.jpg)](https://youtu.be/r565euxWZBs?si=0i_0gjvowSMnEXqv)
+
 # ***Certification***
 
 ![WhatsApp Image](https://github.com/SumantaBhattacharya/pythoncodes/raw/main/WhatsApp%20Image%202025-06-01%20at%2001.24.53_f9a2df28.jpg)
