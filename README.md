@@ -58,6 +58,10 @@
 
 [![Region Growing Algorithm in Image Segmentation.](https://img.youtube.com/vi/ZAXjI9CFvDU/0.jpg)](https://youtu.be/ZAXjI9CFvDU?si=KzHc_7QC_p39qCfj)
 
+# ***Split and Merge Algorithm***
+
+[![L58 | Split and Merge Algorithm || Digital Image Processing (AKTU)](https://img.youtube.com/vi/0kUGpgIrZIw/0.jpg)](https://youtu.be/0kUGpgIrZIw?si=Vd1jy2BdQCxv9y7p)
+
 # ***Certification***
 
 ![WhatsApp Image](https://github.com/SumantaBhattacharya/pythoncodes/raw/main/WhatsApp%20Image%202025-06-01%20at%2001.24.53_f9a2df28.jpg)
