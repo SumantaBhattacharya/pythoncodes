@@ -12,6 +12,10 @@
 
 [![Inserting/Adding Elements At The End Of The Linked List | Python Program](https://img.youtube.com/vi/o8tWJCFWEPU/0.jpg)](https://youtu.be/o8tWJCFWEPU?si=oDS-IEnxAaU-d3b8)
 
+# ***Inserting/Adding Elements After The Given Node in The Linked List | Python Program***
+
+[![Inserting/Adding Elements After The Given Node in The Linked List | Python Program](https://img.youtube.com/vi/enRNwavYa9U/0.jpg)](https://youtu.be/enRNwavYa9U?si=O51hbvCN8vT_MIHs)
+
 # ***Digital Image Processing***
 
 [![What is Computer Vision? | Introduction](https://img.youtube.com/vi/wVE8SFMSBJ0/0.jpg)](https://youtu.be/wVE8SFMSBJ0?si=wO8unJOLaw6oBYdb)
