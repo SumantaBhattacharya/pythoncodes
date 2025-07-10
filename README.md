@@ -20,6 +20,10 @@
 
 [![Inserting/Adding Elements Before The Given Node in The Linked List | Python Program](https://img.youtube.com/vi/8-liQuPp34A/0.jpg)](https://youtu.be/8-liQuPp34A?si=aeVD1OZs5OukQkKx)
 
+# ***Inserting/Adding Elements To The Empty Linked List | Python Program***
+
+[![Inserting/Adding Elements To The Empty Linked List | Python Program](https://img.youtube.com/vi/jLLR0W_XeGw/0.jpg)](https://youtu.be/jLLR0W_XeGw?si=_oqXFIuwYorgnIit)
+
 # ***Digital Image Processing***
 
 [![What is Computer Vision? | Introduction](https://img.youtube.com/vi/wVE8SFMSBJ0/0.jpg)](https://youtu.be/wVE8SFMSBJ0?si=wO8unJOLaw6oBYdb)
