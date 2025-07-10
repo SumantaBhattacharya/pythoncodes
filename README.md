@@ -4,6 +4,13 @@
 
 [![Python Tutorials - Singly Linked List | Program | Part 1](https://img.youtube.com/vi/xRTdfZsAz6Y/maxresdefault.jpg)](https://youtu.be/xRTdfZsAz6Y?si=j2gz3BH2ZNy-2mET)
 
+# ***Inserting/Adding Elements At The Beginning Of The Linked List | Python Program***
+
+[![Inserting/Adding Elements At The Beginning Of The Linked List | Python Program](https://img.youtube.com/vi/B-zO18TJKYQ/0.jpg)](https://youtu.be/B-zO18TJKYQ?si=kgBOJZQE6eiEhNcG)
+
+# ***Inserting/Adding Elements At The End Of The Linked List | Python Program***
+
+[![Inserting/Adding Elements At The End Of The Linked List | Python Program](https://img.youtube.com/vi/o8tWJCFWEPU/0.jpg)](https://youtu.be/o8tWJCFWEPU?si=oDS-IEnxAaU-d3b8)
 
 # ***Digital Image Processing***
 
