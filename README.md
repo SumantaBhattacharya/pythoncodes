@@ -24,6 +24,10 @@
 
 [![Inserting/Adding Elements To The Empty Linked List | Python Program](https://img.youtube.com/vi/jLLR0W_XeGw/0.jpg)](https://youtu.be/jLLR0W_XeGw?si=_oqXFIuwYorgnIit)
 
+# ***Delete The First Node in Linked List | Delete At the Beginning | Python Program***
+
+[![Delete The First Node in Linked List | Delete At the Beginning | Python Program](https://img.youtube.com/vi/LiWt1PUxBbQ/0.jpg)](https://youtu.be/LiWt1PUxBbQ?si=c9_99Y5eL5dDlqsd)
+
 # ***Digital Image Processing***
 
 [![What is Computer Vision? | Introduction](https://img.youtube.com/vi/wVE8SFMSBJ0/0.jpg)](https://youtu.be/wVE8SFMSBJ0?si=wO8unJOLaw6oBYdb)
