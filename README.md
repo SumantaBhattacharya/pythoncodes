@@ -1,8 +1,12 @@
-# ***pythoncodes***
+# **pythoncodes**
 
 # ***Use Python Modules (to Write Clean Code) #23***
 
 [![Use Python Modules (to Write Clean Code) #23](https://img.youtube.com/vi/WfcozEiBIJU/0.jpg)](https://youtu.be/WfcozEiBIJU?si=Gv_rwTPsfv-HG61J)
+
+# ***Python Exception Handling (Use Try..Except to Catch Errors!)***
+
+[![Python Exception Handling (Use Try..Except to Catch Errors!) #25](https://img.youtube.com/vi/brICUKrzVR0/0.jpg)](https://youtu.be/brICUKrzVR0?si=IURaBdX_MyZZiG_G)
 
 # ***Tic Tac Toe Game in Python | Python Project for Beginners***
 
