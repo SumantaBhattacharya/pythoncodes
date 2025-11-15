@@ -4,6 +4,10 @@
 
 [![In Python, Everything is an Object (even Variables and Functions)](https://img.youtube.com/vi/X1RN6ADsOW4/0.jpg)](https://youtu.be/X1RN6ADsOW4?si=wctwleXyiyXl9mxw)
 
+# ***Python Inheritance (Make Your Code Modular!) #22***
+
+[![Python Inheritance (Make Your Code Modular!) #22](https://img.youtube.com/vi/C8qE3mKiBrQ/0.jpg)](https://youtu.be/C8qE3mKiBrQ?si=zoKoK--JCzNWtHU2)
+
 # ***Use Python Modules (to Write Clean Code) #23***
 
 [![Use Python Modules (to Write Clean Code) #23](https://img.youtube.com/vi/WfcozEiBIJU/0.jpg)](https://youtu.be/WfcozEiBIJU?si=Gv_rwTPsfv-HG61J)
