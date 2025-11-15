@@ -4,6 +4,10 @@
 
 [![In Python, Everything is an Object (even Variables and Functions)](https://img.youtube.com/vi/X1RN6ADsOW4/0.jpg)](https://youtu.be/X1RN6ADsOW4?si=wctwleXyiyXl9mxw)
 
+# ***Object-oriented Programming (OOP) in Python (Easy to Understand Guide) #20***
+
+[![Object-oriented Programming (OOP) in Python (Easy to Understand Guide) #20](https://img.youtube.com/vi/pnWINBJ3-yA/0.jpg)](https://youtu.be/pnWINBJ3-yA?si=FYupsXlrqoZOXRre)
+
 # ***Python Inheritance (Make Your Code Modular!) #22***
 
 [![Python Inheritance (Make Your Code Modular!) #22](https://img.youtube.com/vi/C8qE3mKiBrQ/0.jpg)](https://youtu.be/C8qE3mKiBrQ?si=zoKoK--JCzNWtHU2)
