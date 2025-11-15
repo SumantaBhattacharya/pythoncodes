@@ -1,5 +1,9 @@
 # **pythoncodes**
 
+# ***In Python, Everything is an Object (even Variables and Functions)***
+
+[![In Python, Everything is an Object (even Variables and Functions)](https://img.youtube.com/vi/X1RN6ADsOW4/0.jpg)](https://youtu.be/X1RN6ADsOW4?si=wctwleXyiyXl9mxw)
+
 # ***Use Python Modules (to Write Clean Code) #23***
 
 [![Use Python Modules (to Write Clean Code) #23](https://img.youtube.com/vi/WfcozEiBIJU/0.jpg)](https://youtu.be/WfcozEiBIJU?si=Gv_rwTPsfv-HG61J)
