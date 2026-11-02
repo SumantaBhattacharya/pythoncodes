@@ -1,6 +1,30 @@
-# ***pythoncodes***
+# **pythoncodes**
+
+# ***In Python, Everything is an Object (even Variables and Functions)***
+
+[![In Python, Everything is an Object (even Variables and Functions)](https://img.youtube.com/vi/X1RN6ADsOW4/0.jpg)](https://youtu.be/X1RN6ADsOW4?si=wctwleXyiyXl9mxw)
+
+# ***Object-oriented Programming (OOP) in Python (Easy to Understand Guide) #20***
+
+[![Object-oriented Programming (OOP) in Python (Easy to Understand Guide) #20](https://img.youtube.com/vi/pnWINBJ3-yA/0.jpg)](https://youtu.be/pnWINBJ3-yA?si=FYupsXlrqoZOXRre)
+
+# ***Python Inheritance (Make Your Code Modular!) #22***
+
+[![Python Inheritance (Make Your Code Modular!) #22](https://img.youtube.com/vi/C8qE3mKiBrQ/0.jpg)](https://youtu.be/C8qE3mKiBrQ?si=zoKoK--JCzNWtHU2)
+
+# ***Use Python Modules (to Write Clean Code) #23***
+
+[![Use Python Modules (to Write Clean Code) #23](https://img.youtube.com/vi/WfcozEiBIJU/0.jpg)](https://youtu.be/WfcozEiBIJU?si=Gv_rwTPsfv-HG61J)
+
+# ***Python Exception Handling (Use Try..Except to Catch Errors!)***
+
+[![Python Exception Handling (Use Try..Except to Catch Errors!) #25](https://img.youtube.com/vi/brICUKrzVR0/0.jpg)](https://youtu.be/brICUKrzVR0?si=IURaBdX_MyZZiG_G)
+
+# ***Tic Tac Toe Game in Python | Python Project for Beginners***
 
 [![Tic Tac Toe Game in Python | Python Project for Beginners](https://img.youtube.com/vi/Dx7pQV0ZTso/maxresdefault.jpg)](https://youtu.be/Dx7pQV0ZTso?si=-Olm0Kv4G2oLuVYD)
+
+# ***Python Tutorials - Singly Linked List | Program | Part 1***
 
 [![Python Tutorials - Singly Linked List | Program | Part 1](https://img.youtube.com/vi/xRTdfZsAz6Y/maxresdefault.jpg)](https://youtu.be/xRTdfZsAz6Y?si=j2gz3BH2ZNy-2mET)
 
@@ -27,6 +51,40 @@
 # ***Delete The First Node in Linked List | Delete At the Beginning | Python Program***
 
 [![Delete The First Node in Linked List | Delete At the Beginning | Python Program](https://img.youtube.com/vi/LiWt1PUxBbQ/0.jpg)](https://youtu.be/LiWt1PUxBbQ?si=c9_99Y5eL5dDlqsd)
+
+
+# Lec-46: BUBBLE SORT in PYTHON 🐍 with Code 👩‍💻 👨‍💻 | DSA in PYTHON 🐍  
+
+**Description:**  
+Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, indicating that the list is sorted. This video analyzes the best and worst-case time complexity.  
+
+**Topics Discussed:**  
+- Bubble sort  
+- Algorithm with example  
+- Best case time complexity  
+- Worst case time complexity  
+
+[![Bubble Sort in Python](https://img.youtube.com/vi/00mmzkOvLlM/maxresdefault.jpg)](https://youtu.be/00mmzkOvLlM)
+
+## Bubble Sort
+
+Bubble sort is not suitable for large data sets. It has a worst-case and average time complexity of **O(n²)**, where **n** is the number of items being sorted.
+
+Bubble sort has a space complexity of **O(1)**, meaning it does not use any additional data structures.
+
+### Bubble Sort Properties:
+- Runs **(n-1)** loops.
+- **Best case time complexity**: **O(n)**
+- **Average case time complexity**: **O(n²)**
+- **Worst case time complexity**: **O(n²)**
+
+### Algorithm:
+1. Compare the first two elements. If the first is greater than the second, swap them.
+2. Move to the next pair and repeat step 1.
+3. Continue until the last element of the array.
+4. The largest element is now at the end.
+5. Repeat the process for the remaining array (excluding the last sorted element).
+6. Continue until the array is fully sorted.
 
 # ***Digital Image Processing***
 
