@@ -1,0 +1,2 @@
+- `Dictionary keys must be unique.`
+- `Dictionary values do not have to be unique`
